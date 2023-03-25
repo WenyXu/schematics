@@ -45,8 +45,8 @@
     "fs-extra": "9.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-angular": "^8.3.4",
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-angular": "^17.0.0",
     "@types/fs-extra": "9.0.1",
     "@types/jest": "26.0.24",
     "@types/node": "12.12.31",
